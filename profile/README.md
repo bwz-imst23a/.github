@@ -4,8 +4,8 @@ This repository contains learning materials and solutins for the following ICT-M
 
 ### IT Applikationsentwicklung 
 
-- [M248 ICT-Lösungen mit aktuellen Technologien realisieren](./m248)
-- [M335 Mobile-Applikation realisieren](./m335) (inkl. App-Projekt)
+- [M248 ICT-Lösungen mit aktuellen Technologien realisieren](/m248)
+- [M335 Mobile-Applikation realisieren](/repositories/m335) (inkl. App-Projekt)
 - [Vorbereitung auf das Jahrespraktikum](./prakt)
 
 ### IT Business
